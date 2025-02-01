@@ -136,6 +136,54 @@
           "store_path": "/nix/store/acqb619v0a4jhcwimhf861gzq46d2z6g-geos-3.13.0"
         }
       }
+    },
+    "pm2@latest": {
+      "last_modified": "2025-01-19T08:16:51Z",
+      "resolved": "github:NixOS/nixpkgs/50165c4f7eb48ce82bd063e1fb8047a0f515f8ce#pm2",
+      "source": "devbox-search",
+      "version": "5.4.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/dihcjmkhr4yg42297cmgvzi80h9h4946-pm2-5.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/dihcjmkhr4yg42297cmgvzi80h9h4946-pm2-5.4.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/da7rmmiabxk79i5wpkm5i6ax64va4cwr-pm2-5.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/da7rmmiabxk79i5wpkm5i6ax64va4cwr-pm2-5.4.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/i4ds1f39999k0dr9ad0azzrgh2w7rbgn-pm2-5.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/i4ds1f39999k0dr9ad0azzrgh2w7rbgn-pm2-5.4.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/x0ns4cm9qnh0nzd4sb1kw5fjs2b0w9x4-pm2-5.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/x0ns4cm9qnh0nzd4sb1kw5fjs2b0w9x4-pm2-5.4.2"
+        }
+      }
     }
   }
 }

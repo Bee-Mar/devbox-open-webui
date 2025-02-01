@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "namespace": "open-webui",
+      "name": "open-webui",
+      "script": "open-webui serve",
+      "watch": true
+    }
+  ]
+}

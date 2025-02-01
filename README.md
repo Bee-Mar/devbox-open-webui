@@ -1,4 +1,4 @@
-# Devbox Configuration for Running Open WebUI Locally
+# Devbox Configuration for Running Open WebUI
 
 This is a quick setup to run [Open WebUI](https://openwebui.com/) locally using [Devbox](https://www.jetify.com/devbox).
 
